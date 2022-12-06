@@ -6,7 +6,7 @@ Do you decorate your desk space to get into the holiday spirit? This repo contai
 The holidays are approaching quickly, and the Akamai Developer Advocacy team, together with Linode and Linode's mascot Linny, want to invite you to participate in our latest contest. Share how you're getting into the holiday spirit for a chance to win our favorite wireless headphones.
 
 
-<img src="https://lh6.googleusercontent.com/ih2Zg8touoXrnLDyO2drBFidKDP_EBji9DB9WBX-4npqmFoQtrp7hyiUwmAUy_Ty1VCPZnrDwlh1AOqr0QCe5Zw2-tL_2yc2EZnXMV5QddeJQlYrDaVCdRwzoUUaP80J0DLGdXerhHm4fUFYuKt-ailqShD132e3qV4HeqH_n6sO0ZuXECh_EYSo8qwGfQbno12GQ224hQ" height="400"/>
+<img src="https://github.com/Akamai-Community/Linnys-Desk-Sweepstakes/blob/main/assets/img/Linny%20and%20George.png" height="400"/>
 
 *Linny, Linode's mascot, and George, Akamai's security penguin*
 
