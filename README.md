@@ -24,6 +24,6 @@ The sweepstakes runs for 5 days, from **December 12th, 2022 at 12:01 AM ET until
 
 Akamai employees are welcome to share their photos but are ineligible for prizes.
 
-For more details, please read our legal [sweepstakes rules here] (insert hyperlink).
+For more details, please read our legal [sweepstakes rules here](https://github.com/Akamai-Community/Linnys-Desk-Sweepstakes/blob/main/terms-and-conditions.md).
 
 We can't wait to see your workspaces! Good luck, everyone!
