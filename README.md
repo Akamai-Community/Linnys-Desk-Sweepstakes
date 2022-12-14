@@ -20,7 +20,7 @@ To win, share a photo of your desk setup. Did you get into the holiday spirit by
 
 We will randomly (via [random.org](https://www.random.org/)) select 3 winners. Each winner will be sent a [Razer Blackshark V2](https://www.razer.com/gaming-headsets/razer-blackshark-v2-pro) headsets, the perfect wireless headphones for immersing yourself in music, games, or your work.
 
-The sweepstakes runs for 5 days, from **December 12th, 2022 at 12:01 AM ET until December 16th, 2022 at 12:59 PM ET**.
+The sweepstakes runs for 5 days, from **December 12th, 2022 at 12:01 AM ET until December 16th, 2022 at 12:59 PM ET**.  Winners will be announced by EOD (ET) on Monday, December 19th, 2022.
 
 Akamai employees are welcome to share their photos but are ineligible for prizes.
 
